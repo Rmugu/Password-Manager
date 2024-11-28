@@ -1,0 +1,19 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment folder
+venv/
+
+# .DS_Store file (macOS)
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables file
+.env
+
+# IDE configurations
+.vscode/
