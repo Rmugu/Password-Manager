@@ -7,7 +7,7 @@ A simple password manager application built with Python. It securely encrypts an
 ## Features
 
 - **Encryption:** Uses AES (Advanced Encryption Standard) for secure password storage.
-- **Password Management:** Add, view, update, and delete passwords.
+- **Password Management:** Add, view, and update passwords.
 - **User-Friendly Interface:** Command-line based, easy to use.
 - **Local Storage:** Passwords are stored securely in a JSON file.
 
